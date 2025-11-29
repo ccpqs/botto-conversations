@@ -928,5 +928,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "awesome",
     "botResponse": "let's gooo, what’s the server like? 🌍"
+  },
+  {
+    "timestamp": 1764437455519,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "starts the interaction",
+    "botResponse": "hey what’s up fam? how’s it going? 😊"
   }
 ]
