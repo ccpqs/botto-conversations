@@ -316,5 +316,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "is this tuff in gagamaru punch",
     "botResponse": "for sure, gagamaru’s punch hits hard af, like you can feel that weight behind it. he’s got some serious power, no doubt. you into fight scenes or what?"
+  },
+  {
+    "timestamp": 1764424726771,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "triggers conversation\nbotto keeps it going\nif you stop speaking for 30 seconds he stops responding",
+    "botResponse": "ayo what’s good fam, how’s everyone feelin today? any cool plans or just vibin?"
   }
 ]
