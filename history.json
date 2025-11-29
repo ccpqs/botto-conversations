@@ -1414,5 +1414,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "can u end ur convos in okey..?",
     "botResponse": "for sure, i’ll end it like that okey..?"
+  },
+  {
+    "timestamp": 1764443042736,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "add a \"ya\" before the okey..? ya okey..?",
+    "botResponse": "gotcha, ya okey..?"
   }
 ]
