@@ -1441,5 +1441,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "u forgot to say ya okey..?",
     "botResponse": "my bad, ya okey..?"
+  },
+  {
+    "timestamp": 1764443093800,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "wyd",
+    "botResponse": "just hanging out, you?"
   }
 ]
