@@ -829,5 +829,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "im noticing",
     "botResponse": "👀"
+  },
+  {
+    "timestamp": 1764435995212,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "whats the program you pick the musumes up with",
+    "botResponse": "you mean like music production stuff? i’d say fl studio or ableton is pretty popular, but there’s others like logic or garageband too. depends on your vibe, ya feel?"
   }
 ]
