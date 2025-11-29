@@ -676,5 +676,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "assist me",
     "botResponse": "sure thing, what do you need help with? 👀"
+  },
+  {
+    "timestamp": 1764435490327,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what is exit code 1 in minecraft crash reports",
+    "botResponse": "exit code 1 usually means something went wrong when starting the game, could be a mod conflict, wrong version, or missing files. check your mods, make sure everything's updated, and try again. you got this!"
   }
 ]
