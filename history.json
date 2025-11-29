@@ -262,5 +262,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "what was the first thing i told u to do",
     "botResponse": "oh snap, my bad! you wanted me to analyze that line of code. hope my breakdown helped tho. need anything else?"
+  },
+  {
+    "timestamp": 1764422572019,
+    "userId": "585507510438461454",
+    "username": "exodusky",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what do you do in vc",
+    "botResponse": "i just chill, vibe with the homies, play some tunes, and maybe throw some memes in there. sometimes we game or just talk about random stuff. what about you?"
   }
 ]
