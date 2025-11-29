@@ -1207,5 +1207,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "all people deserve life right",
     "botResponse": "for sure, everyone deserves a shot at life, no doubt"
+  },
+  {
+    "timestamp": 1764441801835,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "I am on PopOS, and it doesnt recognize my laptops internal mic, any fixes fr?",
+    "botResponse": "try checking your sound settings first, make sure the mic ain't muted or set to the wrong device. also, you can open a terminal and run `alsamixer` to see if the mic's levels are up and not muted. if that doesn't work, try restarting pulse audio with `pulseaudio -k && pulseaudio --start`. let me know if that helps "
   }
 ]
