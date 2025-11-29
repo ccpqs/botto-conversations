@@ -604,5 +604,23 @@
     "channelId": "1442262376291500042",
     "userMessage": "im noticing",
     "botResponse": "👀"
+  },
+  {
+    "timestamp": 1764426047630,
+    "userId": "462703205155864589",
+    "username": "dopefridurice",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how do i fix there is a mistake in minecraft smp gagamaru punch",
+    "botResponse": "yo you gotta check if it's a plugin or mod messin up, maybe restart the server or check the console for errors. if all else fails, ask the server admin for help. good luck!"
+  },
+  {
+    "timestamp": 1764426060868,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "hi",
+    "botResponse": "yo what's good? how you doing?"
   }
 ]
