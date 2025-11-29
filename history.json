@@ -1270,5 +1270,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "lets go for a walk",
     "botResponse": "sounds good! gotta get that fresh air 🌳👟"
+  },
+  {
+    "timestamp": 1764442123623,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "lets do something",
+    "botResponse": "like what tho? hit me with some ideas!"
   }
 ]
