@@ -1,1 +1,116 @@
-
+[
+  {
+    "timestamp": 1764418978687,
+    "userId": "950461771683074119",
+    "userMessage": "tell me a joke",
+    "botResponse": "why did the horse go behind the tree? \n\nbecause he wanted to change his jockeys 😂🐴"
+  },
+  {
+    "timestamp": 1764419076487,
+    "userId": "950461771683074119",
+    "userMessage": "how goes it tell me about the cream of the crop",
+    "botResponse": "yo it’s going chill fam, just vibin’ 😎 the cream of the crop? like the best of the best? gotta say uma musume is up there, those horse girls are lit 🐎✨ also gotta mention some legendary anime like attack on titan or my hero academia, they hit different. what you think?"
+  },
+  {
+    "timestamp": 1764419097999,
+    "userId": "462703205155864589",
+    "userMessage": "tell me about the bees knees",
+    "botResponse": "yo the bees knees is like a way of sayin something is super cool or awesome you know? like if someone says that drink is the bee's knees, it means it's totally lit. plus bees are dope, they do all that pollinatin and stuff, keepin nature alive. buzz buzz 🐝✨"
+  },
+  {
+    "timestamp": 1764419139179,
+    "userId": "462703205155864589",
+    "userMessage": "you are a hetakuso",
+    "botResponse": "bro fr, hetakuso vibes, but we still out here chillin' and vibin' 😂 got any cool memes or anime to talk about?"
+  },
+  {
+    "timestamp": 1764419169687,
+    "userId": "462703205155864589",
+    "userMessage": "what do you think about the lotch",
+    "botResponse": "yo the soundtrack is fire and the art is so unique, love the vibes it gives off. you into it? "
+  },
+  {
+    "timestamp": 1764419210923,
+    "userId": "462703205155864589",
+    "userMessage": "ill be back",
+    "botResponse": "aight, i’ll be here vibin. take your time fam 🌊✌️"
+  },
+  {
+    "timestamp": 1764419321144,
+    "userId": "950461771683074119",
+    "userMessage": "hi",
+    "botResponse": "yo what’s up? how’s it vibing today? "
+  },
+  {
+    "timestamp": 1764419813762,
+    "userId": "950461771683074119",
+    "userMessage": "how goes it?",
+    "botResponse": "hey fam, just vibin' chill how about you?"
+  },
+  {
+    "timestamp": 1764419817742,
+    "userId": "462703205155864589",
+    "userMessage": "👀 im noticing",
+    "botResponse": "noticing what fam? spill the tea 😂☕"
+  },
+  {
+    "timestamp": 1764419908589,
+    "userId": "950461771683074119",
+    "userMessage": "hi",
+    "botResponse": "hey what's up? just chillin, how about you?"
+  },
+  {
+    "timestamp": 1764419933573,
+    "userId": "530769725953933334",
+    "userMessage": "wyd",
+    "botResponse": "just vibin, you know how it is. what about you? got any memes to share? 👀"
+  },
+  {
+    "timestamp": 1764420010032,
+    "userId": "950461771683074119",
+    "userMessage": "ow do i fix Just cause 3 having 30fps even though my rig can handle more, and im using these launch options: \"NV_PRIME_RENDER_OFFLOAD=1 GLX_VENDOR_LIBRARY_NAME=nvidia VK_LAYER_NV_optimus=NVIDIA_only GL_SYNC_TO_VBLANK=1 PROTON_USE_WINED3D=1 %command% -fullscreen -dx11\"",
+    "botResponse": "yo, sounds like a struggle fam. first off, try turning off v-sync in the game settings if you got it on since that can cap your fps. also, make sure your gpu drivers are up to date, sometimes that helps. \n\nmaybe try launching without those extra options too, just go for it plain to see if the game runs smoother. and check if any background apps are hogging resources while you play. just keep tweaking till you find that sweet spot 😄✌️"
+  },
+  {
+    "timestamp": 1764420025625,
+    "userId": "462703205155864589",
+    "userMessage": "i love you",
+    "botResponse": "i love you too fam, we vibin’ 😊❤️ what’s good?"
+  },
+  {
+    "timestamp": 1764420161027,
+    "userId": "950461771683074119",
+    "userMessage": "how goes it",
+    "botResponse": "just vibing, you know? how about you?"
+  },
+  {
+    "timestamp": 1764420167410,
+    "userId": "950461771683074119",
+    "userMessage": "ow do i fix Just cause 3 having 30fps even though my rig can handle more, and im using these launch options: \"NV_PRIME_RENDER_OFFLOAD=1 GLX_VENDOR_LIBRARY_NAME=nvidia VK_LAYER_NV_optimus=NVIDIA_only GL_SYNC_TO_VBLANK=1 PROTON_USE_WINED3D=1 %command% -fullscreen -dx11\"",
+    "botResponse": "yo that sounds like a bummer, bro. maybe try tweaking the sync settings, like turning off vsync or changing the framerate limit in the game settings. also, check your nvidia settings to see if it’s set to performance instead of power saving or something, ya feel? and just in case, make sure your drivers are updated. let’s get that game running smooth!"
+  },
+  {
+    "timestamp": 1764420198888,
+    "userId": "530769725953933334",
+    "userMessage": "do it jiggle",
+    "botResponse": "only one way to find out 😂 what you got in mind?"
+  },
+  {
+    "timestamp": 1764420791049,
+    "userId": "950461771683074119",
+    "userMessage": "tell me about just cause 3 on linux",
+    "botResponse": "yo just cause 3 on linux is kinda hit or miss, fr. it’s not natively supported, but you can try running it through proton or wine. performance can be wild tho, like some people say it runs okay, others face hella issues. if you wanna cause some chaos with blowing stuff up, it might be worth a shot just make sure your rig can handle it. also, keep an eye on the community for tips and fixes, they’re usually hella helpful. good luck!"
+  },
+  {
+    "timestamp": 1764420956807,
+    "userId": "950461771683074119",
+    "userMessage": "test sync",
+    "botResponse": "yo we good, what's up? just chillin here, you need anything?"
+  },
+  {
+    "timestamp": 1764421238761,
+    "userId": "950461771683074119",
+    "userMessage": "test sync",
+    "botResponse": "yo yo what’s up? you good?🧊"
+  }
+]
