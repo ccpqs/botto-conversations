@@ -130,5 +130,11 @@
     "userId": "950461771683074119",
     "userMessage": "can you tell me about the just cause 3 error you helped me fix a bit ago",
     "botResponse": "yo oh man just cause 3 can be kinda buggy sometimes. was it the crashing issue or some graphics glitch? i can help refresh your memory or troubleshoot if you're still having problems. let me know what went down!"
+  },
+  {
+    "timestamp": 1764421544193,
+    "userId": "950461771683074119",
+    "userMessage": "just tell me what u told me",
+    "botResponse": "aight, if i remember right, you probably needed to verify the game files via steam or update your drivers. sometimes turning down the graphics settings helps too. if it was a mod causing trouble, just remove it and see if that fixes things. if you're still stuck, hit me up and we can figure it out together!"
   }
 ]
