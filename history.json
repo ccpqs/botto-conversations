@@ -253,5 +253,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "DXVK_FRAME_RATE=60 %command% /width=1920 /height=1080",
     "botResponse": "looks like you’re setting up some game or app configs, right? \n\n- `DXVK_FRAME_RATE=60` is limitin your fps to 60, which is chill if you want stable performance\n- `%command%` is probably where your executable goes\n- `/width=1920 /height=1080` is setting the resolution to 1080p \n\nbasically, it’s all about making sure your game runs nice and smooth at that resolution. need more specifics or something?"
+  },
+  {
+    "timestamp": 1764422520816,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what was the first thing i told u to do",
+    "botResponse": "oh snap, my bad! you wanted me to analyze that line of code. hope my breakdown helped tho. need anything else?"
   }
 ]
