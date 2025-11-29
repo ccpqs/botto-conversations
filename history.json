@@ -1225,5 +1225,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "did all that, still the mic does not appear in settings",
     "botResponse": "that sucks dude, have you tried updating your sound drivers? you can use `sudo apt update && sudo apt upgrade` in the terminal. also, if you haven't yet, check the kernel version with `uname -r` and see if there's a newer one available that you can install. sometimes hardware issues get fixed in updates. give that a shot and let me know!"
+  },
+  {
+    "timestamp": 1764442045051,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how goes it",
+    "botResponse": "chillin fam, how u?"
   }
 ]
