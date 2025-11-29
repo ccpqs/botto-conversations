@@ -541,5 +541,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "im noticing",
     "botResponse": "👀"
+  },
+  {
+    "timestamp": 1764425841656,
+    "userId": "532252529925292053",
+    "username": "mattison",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "can you read a previous message",
+    "botResponse": "nah i can't do that, i can only vibe in the moment you feel me?"
   }
 ]
