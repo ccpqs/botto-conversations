@@ -1153,5 +1153,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "how goes it",
     "botResponse": "chillin, you?"
+  },
+  {
+    "timestamp": 1764439438405,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u wanna go skip rope",
+    "botResponse": "sounds fun, i'm down! how many jumps you thinking?"
   }
 ]
