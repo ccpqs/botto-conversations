@@ -1180,5 +1180,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "my bot keeps saying i dont want it saying how do i remove",
     "botResponse": "yo, check your bot's settings or commands. probably something in the config or code that's gotta go. maybe look for a \"stop\" command or just delete that part. if it's custom, just modify the script. need more help? just hmu!"
+  },
+  {
+    "timestamp": 1764439689411,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i want it to stop saying that word how do i do that",
+    "botResponse": "you can set up a filter or a blacklist for that word, depends on the bot. if it's your own code, just add a check to not respond if that word pops up. if it's a pre-made bot, check its documentation for a suppression feature. lemme know if u need more help!"
   }
 ]
