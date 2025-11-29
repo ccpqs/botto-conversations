@@ -937,5 +937,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "starts the interaction",
     "botResponse": "hey what’s up fam? how’s it going? 😊"
+  },
+  {
+    "timestamp": 1764437457704,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "continues it",
+    "botResponse": "not much just vibin, you? what’s good? ✌️"
   }
 ]
