@@ -235,5 +235,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "what did i just ask you",
     "botResponse": "you asked me how I'm doing! so, how you doin? everything cool?"
+  },
+  {
+    "timestamp": 1764422500850,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "analyse this shit",
+    "botResponse": "for sure, what you got for me? drop it and i’ll help you out "
   }
 ]
