@@ -1189,5 +1189,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "i want it to stop saying that word how do i do that",
     "botResponse": "you can set up a filter or a blacklist for that word, depends on the bot. if it's your own code, just add a check to not respond if that word pops up. if it's a pre-made bot, check its documentation for a suppression feature. lemme know if u need more help!"
+  },
+  {
+    "timestamp": 1764440647111,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "help me",
+    "botResponse": "what's up? how can i help?"
   }
 ]
