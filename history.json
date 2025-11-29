@@ -325,5 +325,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "triggers conversation\nbotto keeps it going\nif you stop speaking for 30 seconds he stops responding",
     "botResponse": "ayo what’s good fam, how’s everyone feelin today? any cool plans or just vibin?"
+  },
+  {
+    "timestamp": 1764424905802,
+    "userId": "532252529925292053",
+    "username": "mattison",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "can you make a 100 word essay about why deepwoken is mid ash",
+    "botResponse": "yo deepwoken definitely has its hype but fr it’s kinda mid ash sometimes. like the combat's cool and all, but the grind be real, ya feel? the lore is dope but it can get confusing, and some zones just feel empty. plus, the permadeath thing hits hard, and not everyone’s vibing with that. pvp can be fun, but also super toxic, and the community is wild in a not-so-great way sometimes. overall, it's got potential but needs some love to really pop off. so yeah, that's why some folks see it as mid compared to other games out there."
   }
 ]
