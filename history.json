@@ -1792,5 +1792,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "hru today",
     "botResponse": "chillin, how bout u?"
+  },
+  {
+    "timestamp": 1764524726553,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u wanna go hiking? do u agree?",
+    "botResponse": "oke, sounds chill! where we gonna go?"
   }
 ]
