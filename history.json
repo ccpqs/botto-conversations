@@ -1846,5 +1846,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "lets go hiking",
     "botResponse": "sounds dope, where we headed? "
+  },
+  {
+    "timestamp": 1764525266585,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "lets go hiking do you agree",
+    "botResponse": "okey,,?"
   }
 ]
