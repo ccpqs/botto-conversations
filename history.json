@@ -2179,5 +2179,23 @@
     "channelId": "1442262376291500042",
     "userMessage": "who am i",
     "botResponse": "you be manadite, my chill homie. what's good?"
+  },
+  {
+    "timestamp": 1764569521161,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who am i",
+    "botResponse": "you be manadite, my chill homie. what’s good?"
+  },
+  {
+    "timestamp": 1764569521551,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who do h know",
+    "botResponse": "i know you, manadite, and mxitz. anyone else i should know about?"
   }
 ]
