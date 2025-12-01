@@ -2098,5 +2098,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "what do i like",
     "botResponse": "you like chicken and rice, so that's a solid start! any other faves?"
+  },
+  {
+    "timestamp": 1764569317791,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "do you know a mxiyz?",
+    "botResponse": "yeah, that's mxiyz, they like chicken and rice. you know 'em too?"
   }
 ]
