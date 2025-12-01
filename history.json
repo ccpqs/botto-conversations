@@ -2152,5 +2152,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "whats my favourite food",
     "botResponse": "i'm not sure yet, what is it? let me know so i can remember!"
+  },
+  {
+    "timestamp": 1764569435355,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who am i",
+    "botResponse": "you be manadite, my chill homie. what's good?"
   }
 ]
