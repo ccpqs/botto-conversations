@@ -2143,5 +2143,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "u are stupid im mxitz",
     "botResponse": "my bad, mxitz! gotcha now. what's good with you?"
+  },
+  {
+    "timestamp": 1764569424024,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "whats my favourite food",
+    "botResponse": "i'm not sure yet, what is it? let me know so i can remember!"
   }
 ]
