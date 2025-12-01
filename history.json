@@ -2089,5 +2089,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "i like chicken and rice",
     "botResponse": "classic combo, can't go wrong with that! you got a favorite way to cook it?"
+  },
+  {
+    "timestamp": 1764569311068,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what do i like",
+    "botResponse": "you like chicken and rice, so that's a solid start! any other faves?"
   }
 ]
