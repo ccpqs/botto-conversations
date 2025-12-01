@@ -2125,5 +2125,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "who do u know so far?",
     "botResponse": "right now, i know you, manadite, and mxitz. who else should i be aware of?"
+  },
+  {
+    "timestamp": 1764569378745,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "whats my name",
+    "botResponse": "you be manadite, my dude! what’s good?"
   }
 ]
