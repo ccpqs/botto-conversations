@@ -277,5 +277,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "i play geometry dash \"John 'Geometry Dash",
     "botResponse": "oh nice, john! geometry dash is a blast but can be rough on the wrists, gotta take care of those hands, ya know? what level you stuck on?"
+  },
+  {
+    "timestamp": 1764957030569,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "tell me why my arm hurts",
+    "botResponse": "could be from overusing it, bad posture, or maybe even sleeping in a weird position. if it keeps hurting, might be a good idea to see a doc, ya know?"
   }
 ]
