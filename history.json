@@ -106,5 +106,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "hi",
     "botResponse": "yo what’s up? how’s your day going?"
+  },
+  {
+    "timestamp": 1764956627837,
+    "userId": "462703205155864589",
+    "username": "dopefridurice",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "Who am i",
+    "botResponse": "you’re just you, my dude. what’s up?"
   }
 ]
