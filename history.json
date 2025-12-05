@@ -205,5 +205,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "Think and Try to Query the questions you have recieved before",
     "botResponse": "i remember some past convos, but i'm just here to chill and vibe with ya now. got any questions?"
+  },
+  {
+    "timestamp": 1764956883887,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "What is something i asked you",
+    "botResponse": "you asked about your arm hurting, remember? we talked about possible reasons for that. got anything else on your mind?"
   }
 ]
