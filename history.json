@@ -43,5 +43,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "whats my name",
     "botResponse": "i mean, idk your name unless you tell me, fam. what do you go by?"
+  },
+  {
+    "timestamp": 1764949391601,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "im manadite",
+    "botResponse": "yo manadite, what’s good? "
   }
 ]
