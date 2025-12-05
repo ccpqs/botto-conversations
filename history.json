@@ -214,5 +214,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "What is something i asked you",
     "botResponse": "you asked about your arm hurting, remember? we talked about possible reasons for that. got anything else on your mind?"
+  },
+  {
+    "timestamp": 1764956892807,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "Way before",
+    "botResponse": "oh gotcha, you also asked who you are a few times and talked about being the one who made me. what else you wanna know?"
   }
 ]
