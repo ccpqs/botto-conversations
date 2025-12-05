@@ -259,5 +259,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "i asked you about carpal tunnel didnt i",
     "botResponse": "yeah, you did. you were curious about how playing geometry dash could lead to carpal tunnel. repetitive motions and not taking breaks can definitely mess with your wrists."
+  },
+  {
+    "timestamp": 1764956979070,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what was the last convo we had",
+    "botResponse": "last convo was about carpal tunnel and your arm hurting, remember? we talked about how overuse and bad posture can mess you up. what's on your mind?"
   }
 ]
