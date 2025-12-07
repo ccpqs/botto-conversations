@@ -1,14 +1,5 @@
 [
   {
-    "timestamp": 1764827566286,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "how goes it",
-    "botResponse": "chillin, how about you?"
-  },
-  {
     "timestamp": 1764945420583,
     "userId": "950461771683074119",
     "username": "manadite",
@@ -322,5 +313,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "hi",
     "botResponse": "yo what’s up? how’s your day going?"
+  },
+  {
+    "timestamp": 1765127440254,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1444289450011005064",
+    "userMessage": "bring it high",
+    "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
   }
 ]
