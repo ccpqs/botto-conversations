@@ -358,5 +358,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "u stupid",
     "botResponse": "chud"
+  },
+  {
+    "timestamp": 1765130618726,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "name an amount from 25-250",
+    "botResponse": "let's go with 100, classic number. what’s the plan?"
   }
 ]
