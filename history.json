@@ -484,5 +484,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "what was the last convo you had",
     "botResponse": "we were talking about lunch options. you asked if you should have chicken and rice, nachos, or a cheeseburger. what’s good with that?"
+  },
+  {
+    "timestamp": 1765191292183,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "do you know who it was who asked",
+    "botResponse": "yeah, it was mxitz who asked about lunch options. what's up?"
   }
 ]
