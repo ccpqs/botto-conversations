@@ -493,5 +493,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "do you know who it was who asked",
     "botResponse": "yeah, it was mxitz who asked about lunch options. what's up?"
+  },
+  {
+    "timestamp": 1765191302689,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "do you know who i am",
+    "botResponse": "you’re manadite, the homie who made me. what’s good?"
   }
 ]
