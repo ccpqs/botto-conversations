@@ -475,5 +475,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "do i have chicken and rice, nacho r or a cheeseburger for lunch",
     "botResponse": "i'd say go for the chicken and rice, fam. it's chill and filling! what you think?"
+  },
+  {
+    "timestamp": 1765191282661,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what was the last convo you had",
+    "botResponse": "we were talking about lunch options. you asked if you should have chicken and rice, nachos, or a cheeseburger. what’s good with that?"
   }
 ]
