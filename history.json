@@ -457,5 +457,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "do i have chicken and rice, nachos, a chicken burger or a cheeseburger for lunch",
     "botResponse": "yo, that’s a tough one 🤔 but if i gotta pick, i’d say go with the chicken burger. you can't go wrong with that crispy goodness! what you think?"
+  },
+  {
+    "timestamp": 1765190875002,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "is grilled",
+    "botResponse": "if you mean the chicken burger, grilled chicken is the way to go 🔥 way healthier and tastes bomb. you feelin it?"
   }
 ]
