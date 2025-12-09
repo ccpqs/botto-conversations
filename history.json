@@ -988,5 +988,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "how",
     "botResponse": "we can play in this chat, i can make the board and we can take turns makin moves"
+  },
+  {
+    "timestamp": 1765293451302,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "lets play then",
+    "botResponse": "alright ill start \n  a  b  c  d  e  f  g  h\n8  r  n  b  q  k  b  n  r\n7  p  p  p  p  p  p  p  p\n6  .  .  .  .  .  .  .  .\n5  .  .  .  .  .  .  .  .\n4  .  .  .  .  .  .  .  .\n3  .  .  .  .  .  .  .  .\n2  P  P  P  P  P  P  P  P\n1  R  N  B  Q  K  B  N  R\nyou play as black, ill play as white\nill start, e2 to e4\n  a  b  c  d  e  f  g  h\n8  r  n  b  q  k  b  n  r\n7  p  p  p  p  p  p  p  p\n6  .  .  .  .  .  .  .  .\n5  .  .  .  .  .  .  .  .\n4  .  .  .  .  P  .  .  .\n3  .  .  .  .  .  .  .  .\n2  P  P  P  P  .  P  P  P\n1  R  N  B  Q  K  B  N  R\nyour turn"
   }
 ]
