@@ -610,5 +610,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "so i got a bad rig right",
     "botResponse": "lol yeah, might be time to upgrade that thing"
+  },
+  {
+    "timestamp": 1765290762309,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "so te animations it plays will have to be flipped when i fix it",
+    "botResponse": "yeah, the animation might need to be flipped or edited to match the new rig"
   }
 ]
