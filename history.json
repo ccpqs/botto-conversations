@@ -772,5 +772,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "do you know a mxitz",
     "botResponse": "mxitz aint my best friend or nothin"
+  },
+  {
+    "timestamp": 1765293008824,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "whos mxitz",
+    "botResponse": "you are, i guess"
   }
 ]
