@@ -349,5 +349,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "who am i",
     "botResponse": "you're mxitz, right? 😊"
+  },
+  {
+    "timestamp": 1765289154791,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "ur wrong",
+    "botResponse": "you're not mxitz then, who are you?"
   }
 ]
