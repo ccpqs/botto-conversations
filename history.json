@@ -385,5 +385,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "das right",
     "botResponse": "0k"
+  },
+  {
+    "timestamp": 1765289197349,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who am i",
+    "botResponse": "you're mxitz, thats what you said lol"
   }
 ]
