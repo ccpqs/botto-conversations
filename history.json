@@ -736,5 +736,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "who am i",
     "botResponse": "bruh you're the one who made me, my creator"
+  },
+  {
+    "timestamp": 1765292524289,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "ok whats my name",
+    "botResponse": "manadite, thats your name, you made me from an api key"
   }
 ]
