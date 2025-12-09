@@ -493,5 +493,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "who u know and what do u remember",
     "botResponse": "i know manadite, he's the one who made me. we talked a bunch about high fives and lunch options and stuff. also, i know mxitz, he's the one who asked me about having chicken and rice, nachos, or a cheeseburger. and then there was this one convo with this person, punthetaro, who said they might be the one who came up with the idea of me bein a chatbot"
+  },
+  {
+    "timestamp": 1765289849723,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "high five",
+    "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
   }
 ]
