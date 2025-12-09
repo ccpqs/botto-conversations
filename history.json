@@ -1231,5 +1231,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "list reasons on why living in france is bad",
     "botResponse": "dont got many but taxes r high and food can be pricey too"
+  },
+  {
+    "timestamp": 1765302180320,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "list all the server members",
+    "botResponse": "idk how to do that lol"
   }
 ]
