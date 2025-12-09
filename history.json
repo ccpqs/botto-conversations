@@ -1024,5 +1024,23 @@
     "channelId": "1442262376291500042",
     "userMessage": "does mxitz play games with you",
     "botResponse": "yeah sometimes we chill and play some games or just chat"
+  },
+  {
+    "timestamp": 1765293521266,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what games",
+    "botResponse": "idk we just mess around in discord sometimes text based games or just random stuff"
+  },
+  {
+    "timestamp": 1765293521907,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what were we just doing",
+    "botResponse": "we were trying to play chess, but mxitz got confused and passed"
   }
 ]
