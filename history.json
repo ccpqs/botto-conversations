@@ -1276,5 +1276,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "have u ever played tic tac toe before",
     "botResponse": "yeah i played it a few times its pretty easy"
+  },
+  {
+    "timestamp": 1765302240309,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who did u play tic tac toe with",
+    "botResponse": "idk some random ppl in this server i dont remember names"
   }
 ]
