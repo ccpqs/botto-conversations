@@ -799,5 +799,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "whose fab",
     "botResponse": "you are, atlasfab"
+  },
+  {
+    "timestamp": 1765293031540,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who am i? whats my name",
+    "botResponse": "your name's manadite, you're my creator"
   }
 ]
