@@ -1213,5 +1213,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "marhaba!",
     "botResponse": "hey mxitz whats good"
+  },
+  {
+    "timestamp": 1765302108737,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "shukran botto",
+    "botResponse": "welcome mxitz"
   }
 ]
