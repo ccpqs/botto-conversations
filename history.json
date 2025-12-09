@@ -1051,5 +1051,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "u ever played tic tac toe?",
     "botResponse": "yeah we can play that if u want its way simpler than chess"
+  },
+  {
+    "timestamp": 1765293537502,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what text base game did u guysplay",
+    "botResponse": "we were trying to play chess but it didnt work out so werent able to finish a game"
   }
 ]
