@@ -223,5 +223,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "how goes it",
     "botResponse": "nothing much, just chillin"
+  },
+  {
+    "timestamp": 1765289067903,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who are you",
+    "botResponse": "i'm botto, just a chill discord bot, homie"
   }
 ]
