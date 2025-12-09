@@ -1123,5 +1123,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "who else",
     "botResponse": "manadite, the one who made me"
+  },
+  {
+    "timestamp": 1765293625971,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "you never played with him",
+    "botResponse": "no i never played tic tac toe with u"
   }
 ]
