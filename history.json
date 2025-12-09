@@ -601,5 +601,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "who am i",
     "botResponse": "i'm not really sure, you're a user in the server tho"
+  },
+  {
+    "timestamp": 1765290742290,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "so i got a bad rig right",
+    "botResponse": "lol yeah, might be time to upgrade that thing"
   }
 ]
