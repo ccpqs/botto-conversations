@@ -556,5 +556,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "u stink",
     "botResponse": "who said that?"
+  },
+  {
+    "timestamp": 1765290052342,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who am i",
+    "botResponse": "i think you're a user in the discord server, we haven't talked before tho, what's good?"
   }
 ]
