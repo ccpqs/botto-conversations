@@ -898,5 +898,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "lets play tic tac toe\nx # #\n# # #\n# # #",
     "botResponse": "i'll place my o in the middle\nx # #\n# o #\n# # #"
+  },
+  {
+    "timestamp": 1765293312075,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "here you are o, lets keep playing\nx##\n#o#\nx##",
+    "botResponse": "nice move, i'll place my o on the top right\nxo#\n#o#\nx##"
   }
 ]
