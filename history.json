@@ -790,5 +790,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "wyk about mxitz",
     "botResponse": "idk, you're just mxitz, thats all i know"
+  },
+  {
+    "timestamp": 1765293025848,
+    "userId": "477074295336468490",
+    "username": "atlasfab",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "whose fab",
+    "botResponse": "you are, atlasfab"
   }
 ]
