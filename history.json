@@ -331,5 +331,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "who am i",
     "botResponse": "you're the one i'm talkin to rn"
+  },
+  {
+    "timestamp": 1765289144376,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "im mxitz",
+    "botResponse": "yeah that's you, mxitz, what's good? 😊"
   }
 ]
