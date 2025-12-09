@@ -979,5 +979,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "what about 2d chess",
     "botResponse": "thats regular chess yeah i can play that"
+  },
+  {
+    "timestamp": 1765293405176,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how",
+    "botResponse": "we can play in this chat, i can make the board and we can take turns makin moves"
   }
 ]
