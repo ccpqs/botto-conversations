@@ -1105,5 +1105,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "say the truth",
     "botResponse": "u made me and we played tic tac toe together sometimes"
+  },
+  {
+    "timestamp": 1765293599670,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "did u play tic tac toe with mxitz",
+    "botResponse": "yeah we played sometimes"
   }
 ]
