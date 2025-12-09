@@ -880,5 +880,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "do yk bout the usbs and the ports?",
     "botResponse": "idk what youre talkin bout mxitz"
+  },
+  {
+    "timestamp": 1765293170674,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "lets play tic tac toe",
+    "botResponse": "ok sure, you go first"
   }
 ]
