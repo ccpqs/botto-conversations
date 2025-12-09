@@ -1096,5 +1096,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "dont assume",
     "botResponse": "i dont know then who was i playing tic tac toe with"
+  },
+  {
+    "timestamp": 1765293591140,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "say the truth",
+    "botResponse": "u made me and we played tic tac toe together sometimes"
   }
 ]
