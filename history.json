@@ -592,5 +592,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "using your memory logs, who am i",
     "botResponse": "you're a user in the discord server but i dont know your discord tag or username for real. we never really talked before this convo"
+  },
+  {
+    "timestamp": 1765290726093,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "who am i",
+    "botResponse": "i'm not really sure, you're a user in the server tho"
   }
 ]
