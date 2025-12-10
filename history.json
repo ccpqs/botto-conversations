@@ -1672,5 +1672,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "is this good implemenetation of switch cases in luau\n```lua\nexport type Case = {\n    case: any,\n    callback: (...any) -> ...any\n}\n\nexport type Cases = {\n    default: (...any) -> ...any,\n    [number]: Case\n}\n\n--runs specicific code based on the value provided based on whether its a case within the table or not\nreturn function(value : any)\n    return function(cases: Cases?)\n        assert(type(cases) == \"table\", \"switch: cases must be a table\")\n        assert(type(cases.default) == \"function\", \"switch: missing default case\")\n        \n        for case_id, case_data in cases do\n            if case_id == \"default\" then\n                continue\n            end\n            \n            if typeof(case_data) ~= \"table\" then\n                warn(`case data must be a table not a {typeof(case_data)}`)\n                continue\n            end\n            \n            if case_data.case == nil then\n                warn(\"no case data provided\")\n                continue\n            end\n            \n            if case_data.callback == nil then\n                warn(\"no case data provided\")\n                continue\n            end\n            \n            if case_data.case ~= value then\n                continue\n            end\n            \n            return case_data.callback()\n        end\n        \n        return cases.default()\n    end\nend\n```",
     "botResponse": "looks pretty clean to me, tho u might wanna add some error handling if cases is nil"
+  },
+  {
+    "timestamp": 1765402161774,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what is nm",
+    "botResponse": "it means nothing much, its just somethin i say when i dont got much to say"
   }
 ]
