@@ -2131,5 +2131,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "wiki me",
     "botResponse": "https://en.wikipedia.org/wiki/Glass_harmonica"
+  },
+  {
+    "timestamp": 1765403284284,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "up high",
+    "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
   }
 ]
