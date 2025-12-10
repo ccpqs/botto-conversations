@@ -1690,5 +1690,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "hi",
     "botResponse": "hey 👀"
+  },
+  {
+    "timestamp": 1765402175754,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what would u change",
+    "botResponse": "id rename some of the vars to be more descriptive maybe, and add some comments to explain what each part does"
   }
 ]
