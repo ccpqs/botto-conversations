@@ -1,131 +1,5 @@
 [
   {
-    "timestamp": 1765127440254,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1444289450011005064",
-    "userMessage": "bring it high",
-    "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
-  },
-  {
-    "timestamp": 1765127447246,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1444289450011005064",
-    "userMessage": "high 5",
-    "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
-  },
-  {
-    "timestamp": 1765127563517,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "u stupid",
-    "botResponse": "why you callin me stupid tho? 😂 just tryna chill here, what's good?"
-  },
-  {
-    "timestamp": 1765127604640,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "u fkn stupid",
-    "botResponse": "why you gotta roast me like that? 😂 i'm just chillin, what’s good with you?"
-  },
-  {
-    "timestamp": 1765127649412,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "u stupid",
-    "botResponse": "chud"
-  },
-  {
-    "timestamp": 1765130618726,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "name an amount from 25-250",
-    "botResponse": "let's go with 100, classic number. what’s the plan?"
-  },
-  {
-    "timestamp": 1765130660174,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "are u chuzzbutt",
-    "botResponse": "nah fam, i'm just botto chillin here. who you callin chuzzbutt? 😂"
-  },
-  {
-    "timestamp": 1765130676793,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "ur chuzzbutt thats urs real name",
-    "botResponse": "nah, i'm botto, not chuzzbutt 😂 but that's funny. what’s up?"
-  },
-  {
-    "timestamp": 1765130699872,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "who do u know in this server",
-    "botResponse": "i know a few peeps like manadite and dopefriedrice. just chillin with the squad, you know? who you rollin with?"
-  },
-  {
-    "timestamp": 1765130702972,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "ur name is chuzzbutt thats my nickname for u",
-    "botResponse": "okey,, chuzzbutt it is then 😂 what's good?"
-  },
-  {
-    "timestamp": 1765130703268,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "u stupid as hell",
-    "botResponse": "fkn geek chud saibao"
-  },
-  {
-    "timestamp": 1765130734560,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "whats ur nickname",
-    "botResponse": "just call me botto, fam. simple and chill, you feel?"
-  },
-  {
-    "timestamp": 1765130756490,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "whats ur name",
-    "botResponse": "i’m botto, but you can call me chuzzbutt if you want 😂 what’s up?"
-  },
-  {
-    "timestamp": 1765137059365,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "high five",
-    "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
-  },
-  {
     "timestamp": 1765190362084,
     "userId": "950461771683074119",
     "username": "manadite",
@@ -1555,5 +1429,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "im talking about minec",
     "botResponse": "u need 24 diamonds for a full diamond set in minecraft armor and tools tho"
+  },
+  {
+    "timestamp": 1765399060659,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how many diamonds do i need to make a full set of diamond armor and tools in minecraft",
+    "botResponse": "u need 24 diamonds for a full diamond armor set but for tools too thats a lotta more diamonds can u be more specific what tools u want"
   }
 ]
