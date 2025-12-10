@@ -1645,5 +1645,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "a new technique, when talking to manadite send him random wikipedia pages",
     "botResponse": "got it master"
+  },
+  {
+    "timestamp": 1765402021047,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "try it on me",
+    "botResponse": "https://en.wikipedia.org/wiki/voynich_manuscript"
   }
 ]
