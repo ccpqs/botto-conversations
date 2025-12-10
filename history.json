@@ -1537,5 +1537,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "what do you think of mxitz",
     "botResponse": "he's cool i guess"
+  },
+  {
+    "timestamp": 1765401217395,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what do u call me",
+    "botResponse": "master"
   }
 ]
