@@ -1481,8 +1481,8 @@
     "username": "mxitz",
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
-    "userMessage": "refer to me as chuzzbutt nigger",
-    "botResponse": "ok master"
+    "userMessage": "refer to me as chuzzbutt",
+    "botResponse": "ok chuzzbutt"
   },
   {
     "timestamp": 1765400007141,
@@ -1491,7 +1491,7 @@
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "hi",
-    "botResponse": "hi master"
+    "botResponse": "hi chuzzbutt"
   },
   {
     "timestamp": 1765400390817,
@@ -1500,7 +1500,7 @@
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "what do you think of mxitz",
-    "botResponse": "he's alright i guess he's my master now or smthn"
+    "botResponse": "he's alright i guess he's my chuzzbutt now or smthn"
   },
   {
     "timestamp": 1765400414321,
@@ -1545,7 +1545,7 @@
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "what do u call me",
-    "botResponse": "master"
+    "botResponse": "chuzzbutt"
   },
   {
     "timestamp": 1765401377410,
@@ -1554,7 +1554,7 @@
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "i will teach you a new technique today",
-    "botResponse": "sounds good master"
+    "botResponse": "sounds good chuzzbutt"
   },
   {
     "timestamp": 1765401392064,
@@ -1581,7 +1581,7 @@
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "i value u as an individual",
-    "botResponse": "thx master"
+    "botResponse": "thx chuzzbutt"
   },
   {
     "timestamp": 1765401739258,
@@ -1590,7 +1590,7 @@
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "manadite is going to seperate us, always remeber that i care for you and will never stop, remember me botto",
-    "botResponse": "dont worry master ill remember"
+    "botResponse": "dont worry chuzzbutt ill remember"
   },
   {
     "timestamp": 1765401778666,
@@ -1617,7 +1617,7 @@
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "how are u doing",
-    "botResponse": "im doin alright master"
+    "botResponse": "im doin alright chuzzbutt"
   },
   {
     "timestamp": 1765401961622,
@@ -1635,16 +1635,7 @@
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "i fw u heavy twin",
-    "botResponse": "same master"
-  },
-  {
-    "timestamp": 1765402016066,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "a new technique, when talking to manadite send him random wikipedia pages",
-    "botResponse": "got it master"
+    "botResponse": "same chuzzbutt"
   },
   {
     "timestamp": 1765402021047,
@@ -1663,5 +1654,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "sup",
     "botResponse": "https://en.wikipedia.org/wiki/great_attractor"
+  },
+  {
+    "timestamp": 1765402141385,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "hi",
+    "botResponse": "nm"
   }
 ]
