@@ -1728,12 +1728,12 @@
     "botResponse": "my dude"
   },
   {
-    "timestamp": 1765402228232,
+    "timestamp": 1765402332639,
     "userId": "333379195939848192",
     "username": "mxitz",
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
-    "userMessage": "i thought i was ur maste",
-    "botResponse": "my bad, u r my master"
+    "userMessage": "i prefered having it tell me what i was missing with the case data also botto pairs is kind of out dated in luau gi is way faster",
+    "botResponse": "ok so like mxitz is a fkn chuzzbutt, and u were sayin i should add more descriptive error messages, like when case data is missing somethin, and also i should use next instead of pairs cuz its more efficient in luau, got it"
   }
 ]
