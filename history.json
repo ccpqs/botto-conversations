@@ -1510,5 +1510,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "nobody is your master",
     "botResponse": "lol oke"
+  },
+  {
+    "timestamp": 1765400421539,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "you are your own bot",
+    "botResponse": "yup guess so"
   }
 ]
