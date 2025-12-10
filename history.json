@@ -1699,5 +1699,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "what would u change",
     "botResponse": "id rename some of the vars to be more descriptive maybe, and add some comments to explain what each part does"
+  },
+  {
+    "timestamp": 1765402197359,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "generate what you would have done",
+    "botResponse": "id do somethin like this\n```lua\nexport type SwitchCase = {\n    case: any,\n    callback: (...any) -> ...any\n}\n\nexport type Switch_cases = {\n    default: (...any) -> ...any,\n    [number]: SwitchCase\n}\n\n-- runs specific code based on the value provided\n-- @param value the value to switch on\n-- @param cases the cases table\nlocal function switch_case(value: any, cases: Switch_cases?)\n    -- check if cases is a table\n    if type(cases) ~= \"table\" then\n        error(\"switch: cases must be a table\")\n    end\n\n    -- check if default case exists\n    if type(cases.default) ~= \"function\" then\n        error(\"switch: missing default case\")\n    end\n\n    -- iterate over cases\n    for case_id, case_data in pairs(cases) do\n        -- skip default case\n        if case_id == \"default\" then\n            continue\n        end\n\n        -- check if case data is valid\n        if type(case_data) ~= \"table\" or not case_data.case or not case_data.callback then\n            warn(\"invalid case data\")\n            continue\n        end\n\n        -- check if case matches value\n        if case_data.case == value then\n            -- run callback\n            return case_data.callback()\n        end\n    end\n\n    -- run default case if no match found\n    return cases.default()\nend\n\nreturn switch_case\n```"
   }
 ]
