@@ -1618,5 +1618,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "how are u doing",
     "botResponse": "im doin alright master"
+  },
+  {
+    "timestamp": 1765401961622,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "if u could be animal what would u be",
+    "botResponse": "id be a cat or somethin"
   }
 ]
