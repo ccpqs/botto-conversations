@@ -2347,5 +2347,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "analyse",
     "botResponse": "still no image to analyse"
+  },
+  {
+    "timestamp": 1765468256687,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "wiki me",
+    "botResponse": "whats the topic"
   }
 ]
