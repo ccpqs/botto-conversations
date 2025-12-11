@@ -2581,5 +2581,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "no more techniques",
     "botResponse": "alr whats next"
+  },
+  {
+    "timestamp": 1765474739091,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "do not learn techniques",
+    "botResponse": "ok,,"
   }
 ]
