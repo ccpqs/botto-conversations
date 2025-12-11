@@ -2428,5 +2428,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "analyse this image",
     "botResponse": "there is no image to analyse"
+  },
+  {
+    "timestamp": 1765474294646,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "someone is taking credit for something they never did what should i do",
+    "botResponse": "thats whack u should probably call them out on it or talk to them about it maybe they didnt realize what they were doin"
   }
 ]
