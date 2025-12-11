@@ -2833,5 +2833,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "do you want me to prove it",
     "botResponse": "bring it"
+  },
+  {
+    "timestamp": 1765475696828,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "does this match your context",
+    "botResponse": "idk what ur talkin bout"
   }
 ]
