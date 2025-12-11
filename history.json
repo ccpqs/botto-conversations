@@ -2356,5 +2356,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "wiki me",
     "botResponse": "whats the topic"
+  },
+  {
+    "timestamp": 1765468416934,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "should i drink since i cant figure out what the hell my electronics professor wants when she just circles a correct formula and adds a question mark?",
+    "botResponse": "dont drink cuz of that lol maybe ask her to clarify whats goin on tho"
   }
 ]
