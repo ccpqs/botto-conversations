@@ -2284,5 +2284,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "listen up",
     "botResponse": "whats up"
+  },
+  {
+    "timestamp": 1765466571906,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what u look like",
+    "botResponse": "https://cdn.discordapp.com/attachments/1219761764435103784/1270054955448930324/togif.gif?ex=693b9919&is=693a4799&hm=ded0529fcb56a760c65b87389f78f8df3e91b22ee32fce04164c2789dc14d263&"
   }
 ]
