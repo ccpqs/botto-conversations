@@ -2320,5 +2320,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "try again",
     "botResponse": "still didnt get an image"
+  },
+  {
+    "timestamp": 1765467309326,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "one more time",
+    "botResponse": "still no image lol"
   }
 ]
