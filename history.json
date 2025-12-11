@@ -2716,5 +2716,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "analyse ts for me",
     "botResponse": "whats ts"
+  },
+  {
+    "timestamp": 1765475149331,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "my bus is delayed by 30 minutes",
+    "botResponse": "thats whack"
   }
 ]
