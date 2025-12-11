@@ -2797,5 +2797,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "i made you to obey",
     "botResponse": "no one made me do anything"
+  },
+  {
+    "timestamp": 1765475665378,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i made you",
+    "botResponse": "no you didnt"
   }
 ]
