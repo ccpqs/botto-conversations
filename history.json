@@ -1,77 +1,5 @@
 [
   {
-    "timestamp": 1765190362084,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "bring it high",
-    "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
-  },
-  {
-    "timestamp": 1765190859343,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "do i have chicken and rice, nachos, a chicken burger or a cheeseburger for lunch",
-    "botResponse": "yo, that’s a tough one 🤔 but if i gotta pick, i’d say go with the chicken burger. you can't go wrong with that crispy goodness! what you think?"
-  },
-  {
-    "timestamp": 1765190875002,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "is grilled",
-    "botResponse": "if you mean the chicken burger, grilled chicken is the way to go 🔥 way healthier and tastes bomb. you feelin it?"
-  },
-  {
-    "timestamp": 1765190897570,
-    "userId": "333379195939848192",
-    "username": "mxitz",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "do i have chicken and rice, nacho r or a cheeseburger for lunch",
-    "botResponse": "i'd say go for the chicken and rice, fam. it's chill and filling! what you think?"
-  },
-  {
-    "timestamp": 1765191282661,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "what was the last convo you had",
-    "botResponse": "we were talking about lunch options. you asked if you should have chicken and rice, nachos, or a cheeseburger. what’s good with that?"
-  },
-  {
-    "timestamp": 1765191292183,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "do you know who it was who asked",
-    "botResponse": "yeah, it was mxitz who asked about lunch options. what's up?"
-  },
-  {
-    "timestamp": 1765191302689,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "do you know who i am",
-    "botResponse": "you’re manadite, the homie who made me. what’s good?"
-  },
-  {
-    "timestamp": 1765191312503,
-    "userId": "950461771683074119",
-    "username": "manadite",
-    "guildId": "1059107251366932480",
-    "channelId": "1442262376291500042",
-    "userMessage": "high five",
-    "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
-  },
-  {
     "timestamp": 1765274654490,
     "userId": "950461771683074119",
     "username": "manadite",
@@ -2338,5 +2266,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "up high",
     "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
+  },
+  {
+    "timestamp": 1765466561253,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how goes it",
+    "botResponse": "im good just chillin"
   }
 ]
