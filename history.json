@@ -3076,5 +3076,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "whats ccpa and crpa",
     "botResponse": "ccpa is california consumer privacy act and crpa doesnt exist i think u mean ccpa and gdpr or smthn"
+  },
+  {
+    "timestamp": 1765476754068,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i meant cpra",
+    "botResponse": "cpra is childrens online privacy protection act"
   }
 ]
