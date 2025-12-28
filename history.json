@@ -115,5 +115,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "no i helped you",
     "botResponse": "ok whatever"
+  },
+  {
+    "timestamp": 1766916310597,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "thanks",
+    "botResponse": "np"
   }
 ]
