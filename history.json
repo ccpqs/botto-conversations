@@ -52,5 +52,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "okey",
     "botResponse": "kk"
+  },
+  {
+    "timestamp": 1772730963594,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how do we add integration between you and computercraft",
+    "botResponse": "idk if thats even possible but we can look into it"
   }
 ]
