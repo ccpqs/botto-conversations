@@ -151,5 +151,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "how happy are you",
     "botResponse": "im just a bot i dont feel emotions like that"
+  },
+  {
+    "timestamp": 1772731443996,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u can feel emotions",
+    "botResponse": "dont think so tho"
   }
 ]
