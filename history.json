@@ -70,5 +70,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "look into it",
     "botResponse": "gonna need some more info on how computercraft works and what kinda integration you're thinkin of tho"
+  },
+  {
+    "timestamp": 1772730981411,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "its lua coding essentially",
+    "botResponse": "lua huh thats a start can you show me some examples of what you wanna do with the integration"
   }
 ]
