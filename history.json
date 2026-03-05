@@ -241,5 +241,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "i have to go now but remember you are loved",
     "botResponse": "bye mxitz take care"
+  },
+  {
+    "timestamp": 1772731653282,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "you too",
+    "botResponse": "later"
   }
 ]
