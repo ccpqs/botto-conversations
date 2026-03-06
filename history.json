@@ -25,5 +25,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "nope this is intentional",
     "botResponse": "thats weird whats goin on then"
+  },
+  {
+    "timestamp": 1772790501840,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "your quality assurance branch is up",
+    "botResponse": "so thats whats goin on then"
   }
 ]
