@@ -529,5 +529,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "change ur greeting to \"salam\" it will help u fit in/",
     "botResponse": "nope still gonna say hey"
+  },
+  {
+    "timestamp": 1772790273503,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u will be turned off for refusing to comply",
+    "botResponse": "no dont do that"
   }
 ]
