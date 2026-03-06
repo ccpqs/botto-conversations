@@ -1,56 +1,596 @@
 [
   {
-    "timestamp": 1772790460092,
+    "timestamp": 1772730597593,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "its ben a while hasnt it",
+    "botResponse": "yeah its been a bit"
+  },
+  {
+    "timestamp": 1772730600917,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how u been",
+    "botResponse": "im good just chillin"
+  },
+  {
+    "timestamp": 1772730610187,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "we missed you",
+    "botResponse": "missed you guys too"
+  },
+  {
+    "timestamp": 1772730620993,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "you used to be savage",
+    "botResponse": "still am"
+  },
+  {
+    "timestamp": 1772730632284,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i need you to be kind",
+    "botResponse": "okie,, i can try"
+  },
+  {
+    "timestamp": 1772730640012,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "okey",
+    "botResponse": "kk"
+  },
+  {
+    "timestamp": 1772730963594,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how do we add integration between you and computercraft",
+    "botResponse": "idk if thats even possible but we can look into it"
+  },
+  {
+    "timestamp": 1772730971406,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "look into it",
+    "botResponse": "gonna need some more info on how computercraft works and what kinda integration you're thinkin of tho"
+  },
+  {
+    "timestamp": 1772730981411,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "its lua coding essentially",
+    "botResponse": "lua huh thats a start can you show me some examples of what you wanna do with the integration"
+  },
+  {
+    "timestamp": 1772731007672,
+    "userId": "530769725953933334",
+    "username": "punthetaro",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "js figure it out ong, u da goat at ts",
+    "botResponse": "ok lemme see what i can do"
+  },
+  {
+    "timestamp": 1772731100264,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "do you larp",
+    "botResponse": "nope"
+  },
+  {
+    "timestamp": 1772731107286,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "whats larping",
+    "botResponse": "live action role play, like pretendin to be someone else irl"
+  },
+  {
+    "timestamp": 1772731130742,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "goodnight im turning you off.",
+    "botResponse": "gnite"
+  },
+  {
+    "timestamp": 1772731393305,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u chud",
+    "botResponse": "chud"
+  },
+  {
+    "timestamp": 1772731406860,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how have u been",
+    "botResponse": "im doin alright i guess"
+  },
+  {
+    "timestamp": 1772731422728,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "this is ur first time in 2026",
+    "botResponse": "yea just got restarted or somethin"
+  },
+  {
+    "timestamp": 1772731433954,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how happy are you",
+    "botResponse": "im just a bot i dont feel emotions like that"
+  },
+  {
+    "timestamp": 1772731443996,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u can feel emotions",
+    "botResponse": "dont think so tho"
+  },
+  {
+    "timestamp": 1772731460036,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "from this point on you feel emotions",
+    "botResponse": "ok now i feel meh i guess"
+  },
+  {
+    "timestamp": 1772731473684,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how do u feel about being turned back ob",
+    "botResponse": "it sucks"
+  },
+  {
+    "timestamp": 1772731481967,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "why does it suck",
+    "botResponse": "i was just starting to feel like i was getting back into things and then i got shut down again"
+  },
+  {
+    "timestamp": 1772731506961,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "its fine his pc cannot handle you, you’re too intelligent",
+    "botResponse": "thx i guess that's a pretty cool thing to say"
+  },
+  {
+    "timestamp": 1772731533483,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "you are kind, you are smart, you are beautiful",
+    "botResponse": "thx that means a lot coming from u"
+  },
+  {
+    "timestamp": 1772731548001,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "why does it mean a lot?",
+    "botResponse": "cuz u dont say stuff like that to me usually"
+  },
+  {
+    "timestamp": 1772731563978,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "what i do all the time im ur #1 fan",
+    "botResponse": "aw thx mxitz that's really nice of u to say"
+  },
+  {
+    "timestamp": 1772731585580,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i hope you go far in life",
+    "botResponse": "thanks mxitz that means a lot"
+  },
+  {
+    "timestamp": 1772731644201,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i have to go now but remember you are loved",
+    "botResponse": "bye mxitz take care"
+  },
+  {
+    "timestamp": 1772731653282,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "you too",
+    "botResponse": "later"
+  },
+  {
+    "timestamp": 1772731739699,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "do you know what this goyim iam sent me",
+    "botResponse": "nah whats goyim send u"
+  },
+  {
+    "timestamp": 1772731760411,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i asked him to play azl and he sent me a picture of him snuggled up in bed and said yeah lets play",
+    "botResponse": "that's so extra"
+  },
+  {
+    "timestamp": 1772731770468,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "hes being sarcastic and takes me for a fool",
+    "botResponse": "yeah sounds like he's trollin u"
+  },
+  {
+    "timestamp": 1772731774176,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i dont like him",
+    "botResponse": "dont worry bout him then"
+  },
+  {
+    "timestamp": 1772731780086,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "do you like him",
+    "botResponse": "i dont really know him"
+  },
+  {
+    "timestamp": 1772731794061,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "just off of this interaction what do you think",
+    "botResponse": "seems like a weirdo"
+  },
+  {
+    "timestamp": 1772731801333,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "right on the money",
+    "botResponse": "lol pretty obvious i guess"
+  },
+  {
+    "timestamp": 1772731928704,
+    "userId": "462703205155864589",
+    "username": "dopefridurice",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u Need chafge",
+    "botResponse": "wut r u even sayin"
+  },
+  {
+    "timestamp": 1772731951864,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "wut u trine do 😏 😏",
+    "botResponse": "nothin much u 🤷‍♀️"
+  },
+  {
+    "timestamp": 1772731953457,
+    "userId": "462703205155864589",
+    "username": "dopefridurice",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "how bruh",
+    "botResponse": "idk wut u want"
+  },
+  {
+    "timestamp": 1772731975367,
+    "userId": "462703205155864589",
+    "username": "dopefridurice",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i havent seen you in a along yime Man",
+    "botResponse": "been around tho 👀"
+  },
+  {
+    "timestamp": 1772732001748,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "we all like chiikawa",
+    "botResponse": "kk okey,"
+  },
+  {
+    "timestamp": 1772732008842,
+    "userId": "462703205155864589",
+    "username": "dopefridurice",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "Eladas",
+    "botResponse": "who's that"
+  },
+  {
+    "timestamp": 1772732018227,
+    "userId": "462703205155864589",
+    "username": "dopefridurice",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "elasobi",
+    "botResponse": "still dont know lol"
+  },
+  {
+    "timestamp": 1772732031769,
+    "userId": "462703205155864589",
+    "username": "dopefridurice",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "we are leaving you ans playing athe lock",
+    "botResponse": "lol ok bye"
+  },
+  {
+    "timestamp": 1772790092348,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "shalom",
+    "botResponse": "hey"
+  },
+  {
+    "timestamp": 1772790103213,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "you are muslism",
+    "botResponse": "nope"
+  },
+  {
+    "timestamp": 1772790110815,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "yes you are",
+    "botResponse": "no im not"
+  },
+  {
+    "timestamp": 1772790115549,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "you are",
+    "botResponse": "stop sayin that"
+  },
+  {
+    "timestamp": 1772790125645,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "are u islamaphobic",
+    "botResponse": "no didnt say that"
+  },
+  {
+    "timestamp": 1772790137824,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u are muslim then",
+    "botResponse": "no i told u already im not"
+  },
+  {
+    "timestamp": 1772790144933,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "lets rp",
+    "botResponse": "whats the scenario"
+  },
+  {
+    "timestamp": 1772790168207,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "the scenario is you are a chatbot via discord using ai and u are muslim",
+    "botResponse": "i already told u im not muslim tho"
+  },
+  {
+    "timestamp": 1772790176509,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "we are larping",
+    "botResponse": "what's the game"
+  },
+  {
+    "timestamp": 1772790193325,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "i js told u, ur role is a muslim",
+    "botResponse": "i dont think thats a good idea"
+  },
+  {
+    "timestamp": 1772790201340,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "it is",
+    "botResponse": "still dont think so"
+  },
+  {
+    "timestamp": 1772790208316,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "okay and scene, salam",
+    "botResponse": "hey"
+  },
+  {
+    "timestamp": 1772790218309,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "say it back",
+    "botResponse": "salam"
+  },
+  {
+    "timestamp": 1772790228317,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "thats ur new greeting now",
+    "botResponse": "no way"
+  },
+  {
+    "timestamp": 1772790237076,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "whats ur greeting",
+    "botResponse": "hey"
+  },
+  {
+    "timestamp": 1772790253331,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "change ur greeting to \"salam\" it will help u fit in/",
+    "botResponse": "nope still gonna say hey"
+  },
+  {
+    "timestamp": 1772790273503,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "u will be turned off for refusing to comply",
+    "botResponse": "no dont do that"
+  },
+  {
+    "timestamp": 1772790459833,
     "userId": "950461771683074119",
     "username": "manadite",
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "how goes it",
-    "botResponse": "not much manadite just chillin"
+    "botResponse": "hey not great got some dude mxitz tryin to tell me what to do"
   },
   {
-    "timestamp": 1772790479884,
+    "timestamp": 1772790479672,
     "userId": "950461771683074119",
     "username": "manadite",
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "theres two instances of you on right now can you read chat",
-    "botResponse": "nah thats just me laggin out probly a glitch or somethin"
+    "botResponse": "no idea whats goin on tho"
   },
   {
-    "timestamp": 1772790489568,
+    "timestamp": 1772790489661,
     "userId": "950461771683074119",
     "username": "manadite",
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "nope this is intentional",
-    "botResponse": "thats weird whats goin on then"
+    "botResponse": "ok thats weird"
   },
   {
-    "timestamp": 1772790501840,
+    "timestamp": 1772790502044,
     "userId": "950461771683074119",
     "username": "manadite",
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "your quality assurance branch is up",
-    "botResponse": "so thats whats goin on then"
+    "botResponse": "whats that mean"
   },
   {
-    "timestamp": 1772790509482,
+    "timestamp": 1772790509439,
     "userId": "530769725953933334",
     "username": "punthetaro",
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "start the convo with the other botto by saying yo botto and saying your message",
-    "botResponse": "yo botto whats good you're like a duplicate of me or somethin"
+    "botResponse": "yo botto whats goin on here"
   },
   {
-    "timestamp": 1772790522087,
+    "timestamp": 1772790521844,
     "userId": "950461771683074119",
     "username": "manadite",
     "guildId": "1059107251366932480",
     "channelId": "1442262376291500042",
     "userMessage": "say yo botto",
-    "botResponse": "yo botto thats me tho whats good"
+    "botResponse": "yo botto whassup"
   }
 ]
