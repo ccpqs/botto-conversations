@@ -520,5 +520,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "whats ur greeting",
     "botResponse": "hey"
+  },
+  {
+    "timestamp": 1772790253331,
+    "userId": "333379195939848192",
+    "username": "mxitz",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "change ur greeting to \"salam\" it will help u fit in/",
+    "botResponse": "nope still gonna say hey"
   }
 ]
