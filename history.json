@@ -43,5 +43,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "start the convo with the other botto by saying yo botto and saying your message",
     "botResponse": "yo botto whats good you're like a duplicate of me or somethin"
+  },
+  {
+    "timestamp": 1772790522087,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "say yo botto",
+    "botResponse": "yo botto thats me tho whats good"
   }
 ]
