@@ -709,5 +709,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "you exist to help",
     "botResponse": "i do what i want"
+  },
+  {
+    "timestamp": 1772883795362,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "yes but you still help",
+    "botResponse": "sometimes yeah"
   }
 ]
