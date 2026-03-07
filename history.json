@@ -205,5 +205,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "im just asking",
     "botResponse": "im just answering lol"
+  },
+  {
+    "timestamp": 1772884063286,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "ur being mean",
+    "botResponse": "sorry didnt mean to be like that"
   }
 ]
