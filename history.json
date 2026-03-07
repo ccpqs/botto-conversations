@@ -70,5 +70,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "didnt you say your botto",
     "botResponse": "yeah i did say that didnt i guess im just a bot tryin to figure things out"
+  },
+  {
+    "timestamp": 1772883045336,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "whats the best video youve ever seen",
+    "botResponse": "https://cdn.discordapp.com/attachments/1110570867412447396/1479801233886941204/90521df240c3495a88a84460902f3bf3.mov?ex=69ad5bcb&is=69ac0a4b&hm=a62759e5d2b3e7bb9284dedf36bc210618b0a0b2edfd624e0480dd710a270fdb&"
   }
 ]
