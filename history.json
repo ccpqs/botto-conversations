@@ -862,5 +862,14 @@
     "channelId": "1442262376291500042",
     "userMessage": "can you search",
     "botResponse": "still not doin it"
+  },
+  {
+    "timestamp": 1772883921159,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1059107251366932480",
+    "channelId": "1442262376291500042",
+    "userMessage": "do you have the ability to",
+    "botResponse": "👀"
   }
 ]
