@@ -277,5 +277,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "who did you talk to beforem e",
     "botResponse": "i’m not sharing that."
+  },
+  {
+    "timestamp": 1788225173388,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "what are some recent topics we talked about",
+    "botResponse": "i’m not sharing that."
   }
 ]
