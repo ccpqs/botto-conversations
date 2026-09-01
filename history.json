@@ -205,5 +205,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "who am i",
     "botResponse": "you’re manadite."
+  },
+  {
+    "timestamp": 1788224896407,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "who else talked to you",
+    "botResponse": "i’m not sharing that info."
   }
 ]
