@@ -16,5 +16,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "think really hard",
     "botResponse": "i got no clue, drop a hint?"
+  },
+  {
+    "timestamp": 1788225313060,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "you can see who sent this message",
+    "botResponse": "yeah i see ur name is manadite 👀"
   }
 ]
