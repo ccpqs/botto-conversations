@@ -97,5 +97,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "do you like catnap",
     "botResponse": "yeah i love cat naps."
+  },
+  {
+    "timestamp": 1788224219216,
+    "userId": "1159864092723515402",
+    "username": "firecool123",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "no i meant catnap",
+    "botResponse": "catnap’s a quick chill break, i’m all for it."
   }
 ]
