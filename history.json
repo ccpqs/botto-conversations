@@ -52,5 +52,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "thanks",
     "botResponse": "no problem 😎"
+  },
+  {
+    "timestamp": 1788224123524,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "who am i",
+    "botResponse": "you are the person typing the messages, a human in the chat."
   }
 ]
