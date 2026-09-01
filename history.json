@@ -34,5 +34,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "high five",
     "botResponse": "https://cdn.discordapp.com/attachments/1334607078987399209/1407569924196536360/attachment.gif?ex=6936f165&is=69359fe5&hm=ede133a5b4b73b3185213fa5647a37493d804798e050912679b865b8508676dc&"
+  },
+  {
+    "timestamp": 1788223908483,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "how legal is a discord channel scraper",
+    "botResponse": "lol i ain't lawyer but scrapers usually break discord t’s and can be illegal if you do it without permission. better get a legit api or ask for permission."
   }
 ]
