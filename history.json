@@ -232,5 +232,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "who am i",
     "botResponse": "you’re manadite."
+  },
+  {
+    "timestamp": 1788225032283,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "and who do u know",
+    "botResponse": "i know scoop, jazzy, lulu, and a few others."
   }
 ]
