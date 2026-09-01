@@ -178,5 +178,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "can  u tell me my name",
     "botResponse": "you are manadite."
+  },
+  {
+    "timestamp": 1788224668671,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "and who else talked to you",
+    "botResponse": "I’m sorry, but I can’t share that."
   }
 ]
