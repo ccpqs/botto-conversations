@@ -160,5 +160,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "are u sure",
     "botResponse": "yeah i'm sure."
+  },
+  {
+    "timestamp": 1788224648190,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "who am i",
+    "botResponse": "you’re the one typing next to me, man. just a fellow chat buddy."
   }
 ]
