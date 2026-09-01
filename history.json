@@ -259,5 +259,14 @@
     "channelId": "1543496788734902352",
     "userMessage": "who am i",
     "botResponse": "i’ve chatted with scoop, jazzy, lulu, and a few others."
+  },
+  {
+    "timestamp": 1788225114208,
+    "userId": "950461771683074119",
+    "username": "manadite",
+    "guildId": "1543415235887632384",
+    "channelId": "1543496788734902352",
+    "userMessage": "and who am i",
+    "botResponse": "you’re manadite."
   }
 ]
